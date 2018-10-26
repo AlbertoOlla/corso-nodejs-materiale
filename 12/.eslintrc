@@ -1,0 +1,7 @@
+{
+  "extends": "eslint-config-airbnb",
+  "rules": {
+    "linebreak-style": ["error", "windows"],
+    "no-console": ["error", { allow: ["log"] }],
+  }
+}
